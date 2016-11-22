@@ -1,0 +1,288 @@
+.apple {
+  	width: 30px;
+}
+.content {
+  	margin: auto;
+  	max-width: 1100px;
+}
+.nav-content {
+  	max-width: 1100px;
+  	margin: auto;
+}
+p.top {
+  	font-size: 0.5em;
+  	width: 250px;
+  	margin-left: 0px auto;
+  	float: left;
+}
+p {
+  	font-size: 2.0em;
+  	font-weight: 800;
+}
+.section {
+  	position: relative;
+  	top: 300px;
+}
+.section-margin {
+	margin: 500px auto;
+}
+.icon1 img{
+	left: 0px;
+  	width: 30px;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+	padding: 0 10px;
+}
+.heading {
+	position: relative;
+	padding: 500px 400px;
+}
+img.arrow {
+	position: relative;
+	display: block;
+	top: 500px;
+	width: 100px;
+}
+
+/* 1976 scroll down for arrow and 1976 nav bar button*/
+
+
+
+
+
+/* Section 1 */
+/* Bellow is left image header and product styles */
+
+img.left-img {
+	position:relative;
+	left: -100px;
+	width: 400px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.left-to-right {
+    margin-left: 300px;
+}
+/* Bellow is right P styles */
+.right-text {
+	position: relative;
+	top: -500px;
+	min-width: 550px;
+	margin-left: 3500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.right-to-left {
+	position: relative;
+	margin-left: 3000px;
+}
+/* Bellow is year styles */
+.year {
+	position: relative;
+	left: 325px;
+	top: -400px;
+	font-size: 5.0em;
+	font-weight: 800;
+}
+.right-to-left-year {
+	position: relative;
+	float: right;
+	margin-right: 200px;
+    padding: 50px 20px;
+	transition: 2s;
+    -webkit-transition: 2s; /* Safari 3.1 to 6.0 */
+}
+/* End of Section 1 */
+/* Section 2 */
+/* Bellow is left image header and product styles */
+
+img.left-img2 {
+	position:relative;
+	left: -100px;
+	width: 400px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.left-to-right2 {
+    margin-left: 300px;
+}
+/* Bellow is right P styles */
+.right-text2 {
+	position: relative;
+	top: -500px;
+	min-width: 550px;
+	margin-left: 3500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.right-to-left2 {
+	position: relative;
+	margin-left: 3000px;
+}
+/* Bellow is year styles */
+.year2 {
+	position: relative;
+	left: 325px;
+	top: -400px;
+	font-size: 5.0em;
+	font-weight: 800;
+}
+.right-to-left-year2 {
+	position: relative;
+	float: right;
+	margin-right: 200px;
+    padding: 50px 20px;
+	transition: 2s;
+    -webkit-transition: 2s; /* Safari 3.1 to 6.0 */
+}
+/* Section 3 */
+/* Bellow is left image header and product styles */
+
+img.left-img3 {
+	position:relative;
+	left: -100px;
+	width: 400px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.left-to-right3 {
+    margin-left: 300px;
+}
+/* Bellow is right P styles */
+.right-text3 {
+	position: relative;
+	top: -500px;
+	min-width: 550px;
+	margin-left: 3500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.right-to-left3 {
+	position: relative;
+	margin-left: 3000px;
+}
+/* Bellow is year styles */
+.year3 {
+	position: relative;
+	left: 325px;
+	top: -400px;
+	font-size: 5.0em;
+	font-weight: 800;
+}
+.right-to-left-year3 {
+	position: relative;
+	float: right;
+	margin-right: 200px;
+    padding: 50px 20px;
+	transition: 2s;
+    -webkit-transition: 2s; /* Safari 3.1 to 6.0 */
+}
+/* Section 4 */
+/* Bellow is left image header and product styles */
+
+img.left-img4 {
+	position:relative;
+	left: -100px;
+	width: 500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.left-to-right4 {
+    margin-left: 300px;
+}
+/* Bellow is right P styles */
+.right-text4 {
+	position: relative;
+	top: -500px;
+	min-width: 550px;
+	margin-left: 3500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.right-to-left4 {
+	position: relative;
+	margin-left: 3000px;
+}
+/* Bellow is year styles */
+.year4 {
+	position: relative;
+	left: 325px;
+	top: -500px;
+	font-size: 5.0em;
+	font-weight: 800;
+	line-height: 0.1em;
+}
+.right-to-left-year4 {
+	position: relative;
+	float: right;
+	margin-right: 200px;
+    padding: 50px 20px;
+	transition: 2s;
+    -webkit-transition: 2s; /* Safari 3.1 to 6.0 */
+}
+/* Section 5 */
+/* Bellow is left image header and product styles */
+
+img.left-img5 {
+	position:relative;
+	left: -100px;
+	width: 500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.left-to-right5 {
+    margin-left: 300px;
+}
+/* Bellow is right P styles */
+.right-text5 {
+	position: relative;
+	top: -420px;
+	min-width: 550px;
+	margin-left: 3500px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.right-to-left5 {
+	position: relative;
+	margin-left: 3000px;
+}
+/* Bellow is year styles */
+.year5 {
+	position: relative;
+	left: 325px;
+	top: -300px;
+	font-size: 5.0em;
+	font-weight: 800;
+}
+.right-to-left-year5 {
+	position: relative;
+	float: right;
+	margin-right: 200px;
+    padding: 50px 20px;
+	transition: 2s;
+    -webkit-transition: 2s; /* Safari 3.1 to 6.0 */
+}
+/* Section 6 */
+img.left-img6 {
+	position:relative;
+	left: -100px;
+	width: 1100px;
+	padding: 50px 20px;
+	transition: 3s;
+    -webkit-transition: 3s; /* Safari 3.1 to 6.0 */
+}
+.left-to-right6 {
+    margin-left: 300px;
+}
